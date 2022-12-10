@@ -1,0 +1,3 @@
+[submodule "include/raspi-gpio"]
+	path = include/raspi-gpio
+	url = https://github.com/RPi-Distro/raspi-gpio.git
